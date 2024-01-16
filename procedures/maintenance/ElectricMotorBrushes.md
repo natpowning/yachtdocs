@@ -14,7 +14,7 @@ In this example, we replace the brushes on an MP 29924 pump that circulates flui
 - Socket Spinner Handle
 - 4" Socket Extension
 
-- Small needle-node pliers or flathead screwdriver
+- Small needle-nose pliers or flathead screwdriver
 
 ## Procedure
 1. Remove the pump and get it on the bench.  You can do this by removing hose clamps and disconnecting hoses but getting these connections completely re-sealed isn't always straight forward.  Instead, I prefer to take the pump head apart by removing the four 5/16" bolts.  Be careful not to loose the o-ring inside.
